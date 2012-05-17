@@ -329,3 +329,11 @@ h1 {
 .geek  { padding: 1em; border-bottom: 5px solid #9aaa79; }
 .funny { padding: 1em; border-bottom: 5px solid #c098b3; }
 .rss   { padding: 1em; border-bottom: 5px solid #c0c0c0; }
+
+@media (max-width: 767px) {
+    .mccategories .span2 {
+        display: inline;
+        width: auto;
+        margin: 0 auto;
+    } 
+}

@@ -57,7 +57,7 @@
     <header class="jumbotron masthead">
       <div class="inner">
         <h1><span class="pictoscc">%</span> Morning Coffee</h1>
-        <div class="row">
+        <div class="mccategories row pagination-centered">
           <div class="span2 pagination-centered"><span class="pictoscc music">V</span></div>
           <div class="span2 pagination-centered"><span class="pictoscc sport">B</span></div>
           <div class="span2 pagination-centered"><span class="pictoscc movie">M</span></div>
