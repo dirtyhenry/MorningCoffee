@@ -309,6 +309,8 @@ td { vertical-align: top; }
 
 /** My custom style */
 
+body { background-color: #f0efeb; }
+
 @font-face {
     font-family: "MorningCoffeeHeader";
     src: url("font/League Gothic.otf");
@@ -323,12 +325,33 @@ h1 {
     text-transform: uppercase;
 }
 
-.music { padding: 1em; border-bottom: 5px solid #dd4e0c; }
-.sport { padding: 1em; border-bottom: 5px solid #f5b128; }
-.movie { padding: 1em; border-bottom: 5px solid #59848b; }
-.geek  { padding: 1em; border-bottom: 5px solid #9aaa79; }
-.funny { padding: 1em; border-bottom: 5px solid #c098b3; }
-.rss   { padding: 1em; border-bottom: 5px solid #c0c0c0; }
+article { font-family: "Georgia", serif; }
+article p { font-size: 0.9em; line-height: 1.4em; font-family: "Georgia", serif; text-align: justify; }
+article h1 { font-size: 1.6em; }
+article h1 a { color: inherit; }
+article h1 a:visited { color: inherit; }
+
+.label { font-family: Helvetica, sans-serif; text-transform: lowercase; }
+
+.originalLinkButton, .originalLinkButton:visited { 
+    float: right;
+    font-family: Helvetica, sans-serif;
+    text-transform: lowercase;
+    color: inherit;
+    font-size: 0.8em;
+    margin-top: 1.5em;
+}
+
+.entry-content {
+    padding: 1em 0 1.5em 0;
+}
+
+.music { color: #dd4e0c; }
+.sport { color: #f5b128; }
+.movie { color: #59848b; }
+.geek  { color: #9aaa79; }
+.funny { color: #c098b3; }
+.rss   { color: #c0c0c0; }
 
 @media (max-width: 767px) {
     .mccategories .span2 {
@@ -337,3 +360,53 @@ h1 {
         margin: 0 auto;
     } 
 }
+
+/** From: http://cssdeck.com/item/377/css-only-pinterest-style-columns-layout */
+
+#columns {
+	-moz-column-count: 3;
+	-moz-column-gap: 10px;
+	-moz-column-fill: auto;
+	-webkit-column-count: 3;
+	-webkit-column-gap: 10px;
+	-webkit-column-fill: auto;
+	column-count: 3;
+	column-gap: 15px;
+	column-fill: auto;
+}
+
+.pin {
+	-moz-column-break-inside: avoid;
+	-webkit-column-break-inside: avoid;
+	column-break-inside: avoid;
+	display: inline-block;
+	margin: 0 2px 15px;
+	padding: 15px;
+	border: 2px solid #FAFAFA;
+	box-shadow: 0 1px 2px rgba(34, 25, 25, 0.4);
+	background: #FEFEFE;
+	background-image: linear-gradient(45deg, #FFF, #F9F9F9);
+}
+
+@media (max-width: 767px) {
+    .mccategories .span2 {
+        display: inline;
+        width: auto;
+        margin: 0 auto;
+    } 
+    
+    #columns {
+    	-moz-column-count: 2;
+    	-webkit-column-count: 2;
+    	column-count: 2;
+    }
+}
+
+@media (max-width: 479px) {
+    #columns {
+    	-moz-column-count: 1;
+    	-webkit-column-count: 1;
+    	column-count: 1;
+    }
+}
+

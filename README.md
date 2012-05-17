@@ -6,4 +6,4 @@ Morning Coffee is a set of tools to run a WordPress site dedicated to bookmark w
 Acknowledgements :
 
 * HTML5 Boilerplate http://html5boilerplate.com/
-* Twitter Bootstrap
+* Twitter Bootstrap http://twitter.github.com/bootstrap/
