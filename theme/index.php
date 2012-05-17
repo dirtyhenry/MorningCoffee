@@ -6,47 +6,107 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="<?php bloginfo('language'); ?>"> <!--<![endif]-->
 <head>
   <meta charset="<?php bloginfo('charset'); ?>">
-  <!-- Use the .htaccess and remove these lines to avoid edge case issues. More info: h5bp.com/i/378 -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-
   <title><?php bloginfo('name'); ?></title>
   <meta name="description" content="<?php bloginfo('name'); ?>">
-
-  <!-- Mobile viewport optimized: h5bp.com/viewport -->
   <meta name="viewport" content="width=device-width">
-
-  <!-- Place favicon.ico and apple-touch-icon.png in the root directory: mathiasbynens.be/notes/touch-icons -->
-
+  
+  <!-- Twitter bootstrap -->
+  <link href="<?php bloginfo('template_directory'); ?>/css/bootstrap.css" rel="stylesheet">
+  <link href="<?php bloginfo('template_directory'); ?>/css/bootstrap-responsive.css" rel="stylesheet">
+  <link href="<?php bloginfo('template_directory'); ?>/css/docs.css" rel="stylesheet">
+  <link href="<?php bloginfo('template_directory'); ?>/js/google-code-prettify/prettify.css" rel="stylesheet">
+  <!-- End Twitter bootstrap -->
+  
+  <link href="//get.pictos.cc/fonts/1342/1" rel="stylesheet" type="text/css">
+  
   <link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>">
-
-  <!-- More ideas for your <head> here: h5bp.com/d/head-Tips -->
-
-  <!-- All JavaScript at the bottom, except this Modernizr build.
-       Modernizr enables HTML5 elements & feature detects for optimal performance.
-       Create your own custom Modernizr build: www.modernizr.com/download/ -->
   <script src="<?php bloginfo('template_directory'); ?>/js/vendor/modernizr-2.5.3.min.js"></script>
 </head>
-<body>
-  <!-- Prompt IE 6 users to install Chrome Frame. Remove this if you support IE 6.
-       chromium.org/developers/how-tos/chrome-frame-getting-started -->
-  <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+<body data-spy="scroll" data-target=".subnav" data-offset="50">
 
-  <!-- Add your site or application content here -->
-  Un nouveau Morning Coffee est en cours de construction. Les flux RSS restent valides. Merci de patienter...
+  <!-- Navbar
+    ================================================== -->
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="http://www.deadrooster.org">Dead Rooster</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li class="">
+                <a href="http://www.deadrooster.org">Dead Rooster</a>
+              </li>
+              <li class="active">
+                <a href="/">Morning Coffee</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
 
-  <!-- JavaScript at the bottom for fast page loading: http://developer.yahoo.com/performance/rules.html#js_bottom -->
+        <div class="container">
 
-  <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
+    <!-- Masthead
+    ================================================== -->
+    <header class="jumbotron masthead">
+      <div class="inner">
+        <h1><span class="pictoscc">%</span> Morning Coffee</h1>
+        <div class="row">
+          <div class="span2 pagination-centered"><span class="pictoscc music">V</span></div>
+          <div class="span2 pagination-centered"><span class="pictoscc sport">B</span></div>
+          <div class="span2 pagination-centered"><span class="pictoscc movie">M</span></div>
+          <div class="span2 pagination-centered"><span class="pictoscc geek">I</span></div>
+          <div class="span2 pagination-centered"><span class="pictoscc funny">F</span></div>
+          <div class="span2 pagination-centered"><span class="pictoscc rss">R</span></div>
+        </div>
+      </div>
+    </header>
+
+    <hr class="soften">
+
+    <div>
+      Content here
+    </div>
+         <!-- Footer
+          ================================================== -->
+          <footer class="footer">
+            <p class="pull-right"><a href="#">Back to top</a></p>
+            <p>Designed by <a href="http://deadrooster.org" target="_blank">Dead Rooster</a>.</p>
+            <p>Powered by WordPress, MorningCoffee theme by <a href="http://www.mickaelflochlay.com">Mickaël Floc'hlay</a> licensed under MIT license at <a href="https://github.com/dirtyhenry/MorningCoffee">GitHub</a>.</p>
+          </footer>
+
+        </div><!-- /container -->
+
+
+  <!-- Begin JavaScript -->
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
   <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.7.2.min.js"><\/script>')</script>
-
-  <!-- scripts concatenated and minified via build script -->
-  <script src="js/plugins.js"></script>
-  <script src="js/main.js"></script>
+  <script src="<?php bloginfo('template_directory'); ?>/js/plugins.js"></script>
+  <script src="<?php bloginfo('template_directory'); ?>/js/main.js"></script>
+  <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+  <script src="<?php bloginfo('template_directory'); ?>/js/jquery.js"></script>
+  <script src="<?php bloginfo('template_directory'); ?>/js/google-code-prettify/prettify.js"></script>
+  <script src="<?php bloginfo('template_directory'); ?>/js/bootstrap-transition.js"></script>
+  <script src="<?php bloginfo('template_directory'); ?>/js/bootstrap-alert.js"></script>
+  <script src="<?php bloginfo('template_directory'); ?>/js/bootstrap-modal.js"></script>
+  <script src="<?php bloginfo('template_directory'); ?>/js/bootstrap-dropdown.js"></script>
+  <script src="<?php bloginfo('template_directory'); ?>/js/bootstrap-scrollspy.js"></script>
+  <script src="<?php bloginfo('template_directory'); ?>/js/bootstrap-tab.js"></script>
+  <script src="<?php bloginfo('template_directory'); ?>/js/bootstrap-tooltip.js"></script>
+  <script src="<?php bloginfo('template_directory'); ?>/js/bootstrap-popover.js"></script>
+  <script src="<?php bloginfo('template_directory'); ?>/js/bootstrap-button.js"></script>
+  <script src="<?php bloginfo('template_directory'); ?>/js/bootstrap-collapse.js"></script>
+  <script src="<?php bloginfo('template_directory'); ?>/js/bootstrap-carousel.js"></script>
+  <script src="<?php bloginfo('template_directory'); ?>/js/bootstrap-typeahead.js"></script>
+  <script src="<?php bloginfo('template_directory'); ?>/js/application.js"></script>
   <!-- end scripts -->
 
-  <!-- Asynchronous Google Analytics snippet. Change UA-XXXXX-X to be your site's ID.
-       mathiasbynens.be/notes/async-analytics-snippet -->
   <script>
     var _gaq=[['_setAccount','UA-8271681-4'],['_trackPageview']];
     (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];

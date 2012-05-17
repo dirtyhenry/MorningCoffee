@@ -305,3 +305,27 @@ td { vertical-align: top; }
   p, h2, h3 { orphans: 3; widows: 3; }
   h2, h3 { page-break-after: avoid; }
 }
+
+
+/** My custom style */
+
+@font-face {
+    font-family: "MorningCoffeeHeader";
+    src: url("font/League Gothic.otf");
+}
+
+.pictoscc {
+  font-family: 'Pictos Custom';
+}
+
+h1 {
+    font-family: "MorningCoffeeHeader", sans-serif;
+    text-transform: uppercase;
+}
+
+.music { padding: 1em; border-bottom: 5px solid #dd4e0c; }
+.sport { padding: 1em; border-bottom: 5px solid #f5b128; }
+.movie { padding: 1em; border-bottom: 5px solid #59848b; }
+.geek  { padding: 1em; border-bottom: 5px solid #9aaa79; }
+.funny { padding: 1em; border-bottom: 5px solid #c098b3; }
+.rss   { padding: 1em; border-bottom: 5px solid #c0c0c0; }
