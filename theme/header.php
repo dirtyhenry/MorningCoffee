@@ -54,18 +54,17 @@
 
     <!-- Masthead
     ================================================== -->
-    <header class="jumbotron masthead">
-      <div class="inner">
+    <header class="jumbotron masthead" id="overview">
         <h1><span class="pictoscc">%</span> Morning Coffee</h1>
-        <div class="subnav">
-          <ul class="nav nav-pills">
-            <li class="pictoscc music">V</li>
-            <li class="pictoscc sport">B</li>
-            <li class="pictoscc movie">M</li>
-            <li class="pictoscc geek">I</li>
-            <li class="pictoscc funny">F</li>
-            <li class="pictoscc rss">R</li>
+        <p>
+        <div class="pagination-centered">
+          <ul class="categorynav">
+            <li class="pictoscc music"><a href="#">V</a></li>
+            <li class="pictoscc sport"><a href="#">B</a></li>
+            <li class="pictoscc movie"><a href="#">M</a></li>
+            <li class="pictoscc geek"><a href="#">I</a></li>
+            <li class="pictoscc funny"><a href="#">F</a></li>
+            <li class="pictoscc rss"><a href="#">R</a></li>
           </ul>
         </div>
-      </div>
     </header>

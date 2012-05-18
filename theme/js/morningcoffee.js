@@ -7,3 +7,9 @@ $('p').each(function(index) {
     $(this).html(lien);
   }
 });
+
+$('iframe').each(function(index) {
+    $(this).removeAttr("width");
+    $(this).removeAttr("height");
+    $(this).parent().addClass("embed-container");
+});

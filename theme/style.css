@@ -316,20 +316,37 @@ body { background-color: #f0efeb; }
     src: url("font/League Gothic.otf");
 }
 
-.pictoscc {
-  font-family: 'Pictos Custom';
-}
-
 h1 {
     font-family: "MorningCoffeeHeader", sans-serif;
     text-transform: uppercase;
 }
 
+/** cf. http://andmag.se/2011/11/responsive-embeds/ */
+.embed-container {
+    position: relative;
+    padding-bottom: 56.25%; /* 16/9 ratio */
+    padding-top: 30px; /* IE6 workaround*/
+    height: 0;
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+blockquote {
+    margin-left: 8px;
+}
+
 article { font-family: "Georgia", serif; }
 article p { font-size: 0.9em; line-height: 1.4em; font-family: "Georgia", serif; text-align: justify; }
 article h1 { font-size: 1.6em; }
-article h1 a { color: inherit; }
-article h1 a:visited { color: inherit; }
+article h1 a, article h1 a:visited, article h1 a:hover { color: inherit; }
 
 .label { font-family: Helvetica, sans-serif; text-transform: lowercase; }
 
@@ -346,20 +363,18 @@ article h1 a:visited { color: inherit; }
     padding: 1em 0 1.5em 0;
 }
 
-.music { color: #dd4e0c; }
-.sport { color: #f5b128; }
-.movie { color: #59848b; }
-.geek  { color: #9aaa79; }
-.funny { color: #c098b3; }
-.rss   { color: #c0c0c0; }
-
-@media (max-width: 767px) {
-    .mccategories .span2 {
-        display: inline;
-        width: auto;
-        margin: 0 auto;
-    } 
+.categorynav li { display: inline; }
+.categorynav li a, .categorynav li a:visited { color: inherit; }
+.pictoscc {
+  font-family: 'Pictos Custom';
 }
+
+.music { width: 16.65%; border-bottom: solid 5px #dd4e0c; padding: 0 1em; text-align: center; }
+.sport { width: 16.65%; border-bottom: solid 5px #f5b128; padding: 0 1em; text-align: center; }
+.movie { width: 16.65%; border-bottom: solid 5px #59848b; padding: 0 1em; text-align: center; }
+.geek  { width: 16.65%; border-bottom: solid 5px #9aaa79; padding: 0 1em; text-align: center; }
+.funny { width: 16.65%; border-bottom: solid 5px #c098b3; padding: 0 1em; text-align: center; }
+.rss   { width: 16.65%; border-bottom: solid 5px #c0c0c0; padding: 0 1em; text-align: center; }
 
 /** From: http://cssdeck.com/item/377/css-only-pinterest-style-columns-layout */
 
@@ -388,7 +403,7 @@ article h1 a:visited { color: inherit; }
 	background-image: linear-gradient(45deg, #FFF, #F9F9F9);
 }
 
-@media (max-width: 767px) {
+@media (max-width: 979px) {
     .mccategories .span2 {
         display: inline;
         width: auto;
