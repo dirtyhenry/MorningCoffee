@@ -10,6 +10,13 @@
   <title><?php bloginfo('name'); ?></title>
   <meta name="description" content="<?php bloginfo('name'); ?>">
   <meta name="viewport" content="width=device-width">
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  
+  <link rel="icon" type="image/png" href="<?php bloginfo('template_directory'); ?>/img/favicon.ico" />
+  <link rel="apple-touch-icon-precomposed" href="<?php bloginfo('template_directory'); ?>/img/apple-touch-icon-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="<?php bloginfo('template_directory'); ?>/img/apple-touch-icon-72x72-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="<?php bloginfo('template_directory'); ?>/img/apple-touch-icon-114x114-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="<?php bloginfo('template_directory'); ?>/img/apple-touch-icon-144x144-precomposed.png">
   
   <!-- Twitter bootstrap -->
   <link href="<?php bloginfo('template_directory'); ?>/css/bootstrap.css" rel="stylesheet">
