@@ -46,6 +46,9 @@
               </li>
             </ul>
           </div>
+          <form role="search" method="get" id="searchform" action="<?php echo home_url('/'); ?>" class="navbar-search pull-left">
+            <input type="text" name="s" id="s" class="search-query" placeholder="Search">
+          </form>
         </div>
       </div>
     </div>
