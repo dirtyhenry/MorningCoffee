@@ -2,15 +2,11 @@
 Theme Name: Morning Coffee
 Theme URI: https://github.com/dirtyhenry/MorningCoffee
 Description: The theme for http://morningcoffee.deadrooster.org website
+Version: 2.0
 Author: Mickaël Floc'hlay
 Author URI: http://mickaelflochlay.com/
-Version: 2.0
-Tags: 
-
 License: The MIT License (MIT)
 License URI: http://www.opensource.org/licenses/MIT
-
-General comments (optional).
 */
 
 /*
@@ -321,6 +317,10 @@ h1 {
     text-transform: uppercase;
     font-weight: normal;
 }
+
+h1 a { color: inherit; }
+h1 a:visited { color: inherit; }
+h1 a:hover { text-decoration: none; }
 
 /** cf. http://andmag.se/2011/11/responsive-embeds/ */
 .embed-container {

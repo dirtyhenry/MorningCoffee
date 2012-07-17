@@ -65,15 +65,15 @@
     <!-- Masthead
     ================================================== -->
     <header class="jumbotron masthead" id="overview">
-        <h1><span class="pictoscc">%</span> Morning Coffee</h1>
+        <h1><a href="/"><span class="pictoscc">%</span> Morning Coffee</a></h1>
         <p>
         <div class="pagination-centered">
           <ul class="categorynav">
-            <li class="pictoscc music"><a href="#">V</a></li>
-            <li class="pictoscc sport"><a href="#">B</a></li>
-            <li class="pictoscc movie"><a href="#">M</a></li>
-            <li class="pictoscc geek"><a href="#">I</a></li>
-            <li class="pictoscc funny"><a href="#">F</a></li>
+            <li class="pictoscc music"><a href="/category/musique">V</a></li>
+            <li class="pictoscc sport"><a href="/category/sport">B</a></li>
+            <li class="pictoscc movie"><a href="/category/cinema">M</a></li>
+            <li class="pictoscc geek"><a href="/category/geek">I</a></li>
+            <li class="pictoscc funny"><a href="/category/fun">F</a></li>
             <li class="pictoscc rss"><a href="#">R</a></li>
           </ul>
         </div>
