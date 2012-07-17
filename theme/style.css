@@ -322,6 +322,10 @@ h1 a { color: inherit; }
 h1 a:visited { color: inherit; }
 h1 a:hover { text-decoration: none; }
 
+.label a { color: inherit; }
+.label a:visited { color: inherit; }
+.label a:hover { text-decoration: none; }
+
 /** cf. http://andmag.se/2011/11/responsive-embeds/ */
 .embed-container {
     position: relative;
