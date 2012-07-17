@@ -74,7 +74,7 @@
             <li class="pictoscc movie"><a href="/category/cinema">M</a></li>
             <li class="pictoscc geek"><a href="/category/geek">I</a></li>
             <li class="pictoscc funny"><a href="/category/fun">F</a></li>
-            <li class="pictoscc rss"><a href="#">R</a></li>
+            <li class="pictoscc rss"><a href="http://feeds.feedburner.com/deadroostermorningcoffee">R</a></li>
           </ul>
         </div>
     </header>
