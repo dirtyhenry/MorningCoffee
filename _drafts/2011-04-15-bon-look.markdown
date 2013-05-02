@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: Bon look
+author: mick
+author_login: mick
+author_email: mickael@flochlay.com
+wordpress_id: 139
+wordpress_url: http://morningcoffee.mickaelflochlay.com/?p=139
+date: 2011-04-15 09:12:01.000000000 +02:00
+categories:
+- Sport
+tags:
+- style
+- baseball
+comments: []
+---
+<blockquote>Coco Crisp rocking the blow out ‘fro.</blockquote>
+via <a href="http://chitwoodandhobbs.com/post/4628156035/coco-crisp-afro">Chitwood &amp; Hobbs, Coco Crisp rocking the blow out ‘fro. Oscar Gamble...</a>.

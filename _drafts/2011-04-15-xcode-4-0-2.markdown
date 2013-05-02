@@ -1,0 +1,22 @@
+---
+layout: post
+status: publish
+published: true
+title: Xcode 4.0.2
+author: mick
+author_login: mick
+author_email: mickael@flochlay.com
+wordpress_id: 153
+wordpress_url: http://morningcoffee.mickaelflochlay.com/?p=153
+date: 2011-04-15 10:00:52.000000000 +02:00
+categories:
+- Geek
+tags: []
+comments: []
+---
+<blockquote>Outre la prise en charge d'iOS 4.3.2, cette mouture corrige son lot de bogues et est présentée comme étant plus stable par Apple.</blockquote>
+Bonne nouvelle mais il est trop tôt pour que je revienne à Xcode 4.
+
+J'étais revenu à Xcode 3 après un test de quelques jours de Xcode 4. Mais je n'y reviendrai définitivement que lorsque les docs d'Apple, en particulier les guides de distribution sur App Store, seront basés sur cette version 4.
+
+via <a href="http://www.macgeneration.com/news/voir/196432/xcode-passe-en-4.0.2">Xcode passe en 4.0.2</a>.

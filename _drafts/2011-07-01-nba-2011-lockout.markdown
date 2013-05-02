@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: NBA 2011 Lockout
+author: mick
+author_login: mick
+author_email: mickael@flochlay.com
+wordpress_id: 451
+wordpress_url: http://morningcoffee.mickaelflochlay.com/?p=451
+date: 2011-07-01 13:17:02.000000000 +02:00
+categories:
+- Sport
+tags:
+- Tony Parker
+- NBA
+- Lockout
+- basket
+comments: []
+---
+Fabrice Auclert, sur le lockout en NBA :
+<blockquote>Je le rappelle, la grève patronale signifie l'arrêt complet de l'activité NBA. Les installations et les salles sont fermées. Les dirigeants n'ont plus le droit de parler aux agents et aux joueurs. Aucun transfert. Aucun échange. Les joueurs n'ont plus le droit de parler au nom de leur équipe. Ils sont employés de la NBA, et ils sont au chômage technique. Tony Parker et les autres ne touchent donc plus de salaire. Seuls les plus riches peuvent voir venir.</blockquote>
+Bon, on va pas pleurer pour les joueurs (sauf les rookies), qui ont quand même les moyens de "voire venir", mais c'est quand même moche que le lockout arrive à 2 mois à peine de mon arrivée sur le continent américain.
+
+via <a href="http://fr.sports.yahoo.com/basketball/nba/blog/article/12030/nbawhere-gchis-happens/">NBA : Where Gâchis Happens - Yahoo! Sport FR</a>.

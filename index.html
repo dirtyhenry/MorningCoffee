@@ -1,0 +1,29 @@
+---
+layout: index
+title: Morning Coffee
+---
+
+<div id="columns">
+    {% for post in site.posts %}
+    <div class="pin">
+        <article>
+            <h1 class="entry-title">
+                <a href="{{ post.url }}" rel="bookmark">{{ post.title }}</a></h1>
+              	<div class="entry-content">
+              	    {{ post.content }}
+              	</div>
+              	<footer class="entry-meta">
+              	    {% for category in post.categories %}
+              	        <span class="label label-info">{{ category }}</span>
+              	    {% endfor %}
+              	    {% for tag in post.tags %}
+              	        <span class="label">{{ tag }}</span>
+              	    {% endfor %}
+                </footer>
+        </article>
+    </div>
+    
+    {% endfor %}
+</div>
+
+<!-- Pagination here -->

@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: SPIP 3.0
+author: mick
+author_login: mick
+author_email: mickael@flochlay.com
+wordpress_id: 1551
+wordpress_url: http://morningcoffee.mickaelflochlay.com/?p=1551
+date: 2012-05-20 10:08:56.000000000 +02:00
+categories:
+- Geek
+tags:
+- spip
+comments: []
+---
+SPIP 3 vient de sortir. De quoi redonner un élan à ce CMS francophone (un handicap ?), qui m'avait séduit au moment de la réalisation de <a href="http://deadrooster.org">Dead Rooster</a> (choix que je regrette un peu), mais qui ne représente que <a href="http://w3techs.com/technologies/overview/content_management/all">0,4% des parts du marché de CMS (contre 54, 1% pour WordPress)</a>.
+
+via <a href="http://www.spip.net/fr_article5427.html">SPIP 3.0 - SPIP</a>.

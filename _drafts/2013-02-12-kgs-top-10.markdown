@@ -1,0 +1,22 @@
+---
+layout: post
+status: publish
+published: true
+title: !binary |-
+  S0figJlzIFRvcCAxMA==
+author: mick
+author_login: mick
+author_email: mickael@flochlay.com
+wordpress_id: 2615
+wordpress_url: http://morningcoffee.deadrooster.org/?p=2615
+date: 2013-02-12 09:43:31.000000000 +01:00
+categories:
+- Sport
+tags:
+- NBA
+- basket
+- kevin garnett
+comments: []
+---
+<blockquote>we all know KG was a Celtic long before he was a Celtic, right?</blockquote>
+<a href="http://celticshub.com/2013/02/12/ticket-reel-kgs-top-10-plays/">Ticket Reel: KG’s Top 10 Plays… | Boston Celtics Basketball - Celtics news, rumors and analysis - CelticsHub.com</a>.

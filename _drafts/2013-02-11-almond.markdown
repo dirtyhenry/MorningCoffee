@@ -1,0 +1,19 @@
+---
+layout: post
+status: publish
+published: true
+title: Almond+
+author: mick
+author_login: mick
+author_email: mickael@flochlay.com
+wordpress_id: 2613
+wordpress_url: http://morningcoffee.deadrooster.org/?p=2613
+date: 2013-02-11 14:16:11.000000000 +01:00
+categories:
+- Geek
+tags:
+- kickstarter
+- almond
+comments: []
+---
+<a href="http://www.kickstarter.com/projects/2037429657/almond-80211ac-touchscreen-wifi-router-smart-home">Almond+ : 802.11ac Touchscreen WiFi Router + Smart home Hub by SECURIFI — Kickstarter</a>.

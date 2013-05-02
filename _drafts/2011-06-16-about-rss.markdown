@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: About RSS
+author: mick
+author_login: mick
+author_email: mickael@flochlay.com
+wordpress_id: 393
+wordpress_url: http://morningcoffee.mickaelflochlay.com/?p=393
+date: 2011-06-16 09:18:58.000000000 +02:00
+categories:
+- Geek
+tags: []
+comments: []
+---
+Hier, sur <a href="http://www.mickaelflochlay.com/spip/Applications-iPad-mon-top-5">ce post de mon blog</a>, je disais que le RSS était un incompris. On retrouve un peu la même chose ici :
+<blockquote>Dead?
+
+Yes and no. It’s plumbing, and, behind-the-scenes, RSS is doing a lot more work than most people realize, outside of RSS readers.
+
+We understand the limit of the appeal of a traditional RSS reader. The idea that those apps as-they-are-now could become mass market hits is finished.
+
+They can still be modest hits, though, and ambitious and smart developers will go well beyond the traditional RSS reader and make reader apps that will become mass-market hits.
+
+And those reader apps will still make great use of RSS, but the RSS-iness will become invisible plumbing.
+
+Summary: it’s complicated, but “not-dead” is the correct answer.</blockquote>
+via <a href="http://inessential.com/2011/06/15/what_we_talk_about_when_we_talk_about_rs">inessential.com: weblog</a>.

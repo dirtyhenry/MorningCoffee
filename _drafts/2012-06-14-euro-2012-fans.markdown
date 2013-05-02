@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: Euro 2012 Fans
+author: mick
+author_login: mick
+author_email: mickael@flochlay.com
+wordpress_id: 1647
+wordpress_url: http://morningcoffee.deadrooster.org/?p=1647
+date: 2012-06-14 11:56:28.000000000 +02:00
+categories:
+- Sport
+tags:
+- Euro 2012
+- foot
+comments: []
+---
+Vivement la part two (et les photos des joueurs ?). J'aime particulièrement <a href="http://www.boston.com/bigpicture/2012/06/euro_2012_soccer_championship.html#photo35">l'applaudissement avec les chaussures</a>.
+
+[Update : et voilà <a title="Euro 2012 Actions" href="http://morningcoffee.deadrooster.org/1706/euro-2012-actions">les actions</a>]
+
+<a href="http://www.boston.com/bigpicture/2012/06/euro_2012_soccer_championship.html#photo35">Euro 2012 Soccer Championship, part one: The fans - The Big Picture - Boston.com</a>.

@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: iOS 4.3.2
+author: mick
+author_login: mick
+author_email: mickael@flochlay.com
+wordpress_id: 155
+wordpress_url: http://morningcoffee.mickaelflochlay.com/?p=155
+date: 2011-04-15 10:04:09.000000000 +02:00
+categories:
+- Geek
+tags: []
+comments: []
+---
+<blockquote>Apple vient de publier la mise à jour 4.3.2 d’iOS. Elle se destine à l’ensemble des iDevices suivants : iPad 1 et 2, iPhone 3GS, iPhone 4, iPod Touch de troisième et quatrième génération.</blockquote>
+Pas grand chose d'essentiel, mais il est toujours bon de corriger les bugs de sécurité.
+
+via <a href="http://www.pcinpact.com/actu/news/63104-apple-ios-432-telechargement-nouveautes.htm">Apple diffuse plusieurs correctifs dans la mise à jour 4.3.2 d'iOS - PC INpact</a>.

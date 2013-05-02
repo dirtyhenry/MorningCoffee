@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: iOS 4.3.3
+author: mick
+author_login: mick
+author_email: mickael@flochlay.com
+wordpress_id: 255
+wordpress_url: http://morningcoffee.mickaelflochlay.com/?p=255
+date: 2011-05-05 08:03:20.000000000 +02:00
+categories:
+- Geek
+tags: []
+comments: []
+---
+<blockquote>iOS 4.3.3 est disponible. Comme prévu, cette nouvelle version du système mobile d'Apple corrige les bugs liés à la géolocalisation. Apple indique ainsi dans les notes de la nouvelle version que la taille du cache de géolocalisation a été diminuée, que le cache n'est plus sauvegardé dans iTunes et enfin qu'il est entièrement effacé lorsque la géolocalisation est désactivée par l'utilisateur.</blockquote>
+La polémique autour de ce cache de géolocalisation n'était selon moi pas justifiée. Juste un bug... Comme tous les logiciels... Et un fois qu'il est détecté, il est corrigé.
+
+via <a href="http://www.igeneration.fr/iphone/ios-433-est-disponible-45042">iOS 4.3.3 est disponible</a>.

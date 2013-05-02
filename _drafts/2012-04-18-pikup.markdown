@@ -1,0 +1,19 @@
+---
+layout: post
+status: publish
+published: true
+title: Pikup
+author: mick
+author_login: mick
+author_email: mickael@flochlay.com
+wordpress_id: 1479
+wordpress_url: http://morningcoffee.mickaelflochlay.com/?p=1479
+date: 2012-04-18 15:48:59.000000000 +02:00
+categories:
+- Musique
+tags: []
+comments: []
+---
+Une initiative très intéressante pour une rémunération <em>fair</em> des artistes. Malheureusement, l'appli n'est pas dispo sur l'App Store français.
+
+via <a href="https://www.pikup.com/">Pikup</a>.

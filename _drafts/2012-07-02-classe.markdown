@@ -1,0 +1,19 @@
+---
+layout: post
+status: publish
+published: true
+title: Classe
+author: mick
+author_login: mick
+author_email: mickael@flochlay.com
+wordpress_id: 1712
+wordpress_url: http://morningcoffee.deadrooster.org/?p=1712
+date: 2012-07-02 15:00:13.000000000 +02:00
+categories:
+- Sport
+tags:
+- espagne
+- foot
+comments: []
+---
+<p>Pour rappel : en dix matchs à élimination directe lors de ces trois dernières grandes compétitions internationales, l'Espagne a encaissé zéro but.</p><p>via <a href='http://fr.sports.yahoo.com/blogs/pierrot-le-foot/l-espagne-imbattable-234412077.html'>L’Espagne est imbattable | Pierrot le Foot - Yahoo! Sport</a>.</p>

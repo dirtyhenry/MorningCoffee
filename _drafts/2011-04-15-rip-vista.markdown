@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: RIP Vista
+author: mick
+author_login: mick
+author_email: mickael@flochlay.com
+wordpress_id: 149
+wordpress_url: http://morningcoffee.mickaelflochlay.com/?p=149
+date: 2011-04-15 09:52:25.000000000 +02:00
+categories:
+- Geek
+tags: []
+comments: []
+---
+<blockquote>En dépit de signes encourageants sur une motivation réelle de vouloir reprendre la tête, voilà que l’on apprend qu’Internet Explorer 10 ne sera limité qu’à Windows 7 et 8.</blockquote>
+Moins d'une semaine après mon RIP Windows XP, voilà les prémices d'un RIP Vista.
+
+via <a href="http://www.pcinpact.com/actu/news/63081-internet-explorer-10-vista-installation-windows-7-requis.htm">Pas d'Internet Explorer 10 pour les utilisateurs de Vista - PC INpact</a>.

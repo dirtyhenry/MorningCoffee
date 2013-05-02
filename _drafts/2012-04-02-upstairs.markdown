@@ -1,0 +1,19 @@
+---
+layout: post
+status: publish
+published: true
+title: Upstairs
+author: mick
+author_login: mick
+author_email: mickael@flochlay.com
+wordpress_id: 1455
+wordpress_url: http://morningcoffee.mickaelflochlay.com/?p=1455
+date: 2012-04-02 07:42:40.000000000 +02:00
+categories:
+- Fun
+tags: []
+comments: []
+---
+Après le premier rendez-vous, négociations au bas des escaliers.
+
+via <a href="http://www.dailymotion.com/video/xo797x_upstairs_fun?from=email_fr_HB&amp;utm_source=emailing&amp;utm_medium=emailing&amp;utm_campaign=email_fr_HB">Upstairs - Video Dailymotion</a>.

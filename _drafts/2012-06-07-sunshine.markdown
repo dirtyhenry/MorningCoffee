@@ -1,0 +1,22 @@
+---
+layout: post
+status: publish
+published: true
+title: Sunshine
+author: mick
+author_login: mick
+author_email: mickael@flochlay.com
+wordpress_id: 1619
+wordpress_url: http://morningcoffee.deadrooster.org/?p=1619
+date: 2012-06-07 14:45:13.000000000 +02:00
+categories:
+- Fun
+tags:
+- Super Mario Bros
+- little miss sunshine
+- tee-shirt
+comments: []
+---
+Mon prochain tee-shirt.
+
+via <a href="http://www.threadless.com/product/3818/Sunshine/tab,guys/style,shirt?streetteam=teemagnet">"Sunshine" - Threadless.com - Best t-shirts in the world</a>.

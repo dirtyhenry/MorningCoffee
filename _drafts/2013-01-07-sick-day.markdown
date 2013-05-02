@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: Sick Day
+author: mick
+author_login: mick
+author_email: mickael@flochlay.com
+wordpress_id: 2582
+wordpress_url: http://morningcoffee.deadrooster.org/?p=2582
+date: 2013-01-07 15:59:39.000000000 +01:00
+categories:
+- Fun
+tags:
+- xkcd
+comments: []
+---
+J'aime l'idée de se brancher une pompe d'aquarium dans les sinus.
+
+<a href="http://xkcd.com/1157/">xkcd: Sick Day</a>.

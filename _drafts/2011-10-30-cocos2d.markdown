@@ -1,0 +1,19 @@
+---
+layout: post
+status: publish
+published: true
+title: cocos2d
+author: mick
+author_login: mick
+author_email: mickael@flochlay.com
+wordpress_id: 994
+wordpress_url: http://morningcoffee.mickaelflochlay.com/?p=994
+date: 2011-10-30 20:57:16.000000000 +01:00
+categories:
+- Geek
+tags:
+- iOS
+comments: []
+---
+<blockquote>cocos2d for iPhone is a framework for building 2D games, demos, and other graphical/interactive applications. It is based on the cocos2d design: it uses the same concepts, but instead of using python it uses objective-c.</blockquote>
+via <a href="http://www.cocos2d-iphone.org/about">About | cocos2d for iPhone</a>.

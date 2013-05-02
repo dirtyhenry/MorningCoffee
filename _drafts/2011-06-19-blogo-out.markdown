@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: Blogo Out !
+author: mick
+author_login: mick
+author_email: mickael@flochlay.com
+wordpress_id: 407
+wordpress_url: http://morningcoffee.mickaelflochlay.com/?p=407
+date: 2011-06-19 09:28:00.000000000 +02:00
+categories:
+- Musique
+tags: []
+comments: []
+---
+<blockquote>On trouve dans ce premier album (...) de l’ambitieux jazz rock.</blockquote>
+OK, nouvelle mention de "jazz rock" dans la Blogo. C'est décidé, ça dégage de mes RSS.
+
+via <a href="http://www.blogotheque.net/2011/06/17/your-headlights-are-on-lointains-amis/">Your Headlights Are On, lointains amis - La Blogothèque</a>.

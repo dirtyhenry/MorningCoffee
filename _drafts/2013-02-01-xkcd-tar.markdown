@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: 'xkcd: tar'
+author: mick
+author_login: mick
+author_email: mickael@flochlay.com
+wordpress_id: 2601
+wordpress_url: http://morningcoffee.deadrooster.org/?p=2601
+date: 2013-02-01 09:20:02.000000000 +01:00
+categories:
+- Geek
+- Fun
+tags:
+- xkcd
+- comic
+comments: []
+---
+<a href="http://xkcd.com/1168/">xkcd: tar</a>.

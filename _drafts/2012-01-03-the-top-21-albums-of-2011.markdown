@@ -1,0 +1,22 @@
+---
+layout: post
+status: publish
+published: true
+title: The Top 21 Albums of 2011
+author: mick
+author_login: mick
+author_email: mickael@flochlay.com
+wordpress_id: 1208
+wordpress_url: http://morningcoffee.mickaelflochlay.com/?p=1208
+date: 2012-01-03 12:39:23.000000000 +01:00
+categories:
+- Musique
+tags:
+- Visualization
+- Design
+- Top
+comments: []
+---
+Pas mal. Mais ça ne m'étonnerait pas que Dead Rooster fasse mieux très très vite.
+
+via <a href="http://www.informationisbeautiful.net/2012/top-21-albums-of-2011/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=top-21-albums-of-2011">The Top 21 Albums of 2011 from 120 Top 10 Lists</a>.

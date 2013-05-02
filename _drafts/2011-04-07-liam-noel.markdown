@@ -1,0 +1,21 @@
+---
+layout: post
+status: publish
+published: true
+title: Liam & Noel
+author: mick
+author_login: mick
+author_email: mickael@flochlay.com
+wordpress_id: 1524
+wordpress_url: http://morningcoffee.mickaelflochlay.com/?p=1524
+date: 2011-04-07 13:28:25.000000000 +02:00
+categories:
+- Fun
+- Musique
+tags:
+- Noel Gallagher
+- Oasis
+- Liam Gallagher
+comments: []
+---
+<iframe width="540" height="396" src="http://www.youtube.com/embed/rLc84_fe4oY" frameborder="0" allowfullscreen></iframe>

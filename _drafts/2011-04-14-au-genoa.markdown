@@ -1,0 +1,21 @@
+---
+layout: post
+status: publish
+published: true
+title: au Genoa ?
+author: mick
+author_login: mick
+author_email: mickael@flochlay.com
+wordpress_id: 115
+wordpress_url: http://morningcoffee.mickaelflochlay.com/?p=115
+date: 2011-04-14 07:05:29.000000000 +02:00
+categories:
+- Sport
+tags:
+- foot
+comments: []
+---
+<blockquote>Les deux milieux internationaux Blaise Matuidi (ASSE) et Moussa Sissoko (TFC) sont sur les tablettes du Genoa, l'un des gros budgets italiens.</blockquote>
+Si ça, ça se fait, je pleurerai pour la L1...
+
+via <a href="http://www.lequipe.fr/Football/20110413_084707_le-genoa-cible-matuidi-et-sissoko.html">Le Genoa sur Matuidi et Sissoko - Foot - Transferts - L'EQUIPE.FR</a>.

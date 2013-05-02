@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: et les 70s et les 80s ?
+author: mick
+author_login: mick
+author_email: mickael@flochlay.com
+wordpress_id: 1514
+wordpress_url: http://morningcoffee.mickaelflochlay.com/?p=1514
+date: 2012-05-02 12:09:27.000000000 +02:00
+categories:
+- Musique
+tags:
+- Listes
+- NME
+comments: []
+---
+Le NME propose des listes des meilleurs morceaux de chaque décennie :
+<ul>
+	<li><a href="http://stereogum.com/1016812/nmes-100-best-tracks-of-the-80s/list/">Années 80</a></li>
+	<li><a href="http://stereogum.com/1000301/nmes-100-best-tracks-of-the-70s/list/">Années 70</a></li>
+</ul>
+&nbsp;

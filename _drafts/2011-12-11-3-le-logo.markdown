@@ -1,0 +1,21 @@
+---
+layout: post
+status: publish
+published: true
+title: 3$ le logo.
+author: mick
+author_login: mick
+author_email: mickael@flochlay.com
+wordpress_id: 1147
+wordpress_url: http://morningcoffee.mickaelflochlay.com/?p=1147
+date: 2011-12-11 23:34:29.000000000 +01:00
+categories:
+- Fun
+tags:
+- Design
+comments: []
+---
+<blockquote>Bouchat rightfully sued the team for copyright infringement. The US Fourth Circuit Court of Appeals ruled in favor of Bouchat and the team was forced to change their primary logo. The court also ruled that Bouchat was entitled to three dollars in damages from the NFL.</blockquote>
+3$ le logo ? Sympa.
+
+via <a href="http://chitwoodandhobbs.com/post/8739973568/the-case-of-the-three-dollar-logo">Chitwood &amp; Hobbs, The Case of the Three Dollar Logo</a>.

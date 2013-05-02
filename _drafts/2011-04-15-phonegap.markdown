@@ -1,0 +1,18 @@
+---
+layout: post
+status: publish
+published: true
+title: PhoneGap
+author: mick
+author_login: mick
+author_email: mickael@flochlay.com
+wordpress_id: 157
+wordpress_url: http://morningcoffee.mickaelflochlay.com/?p=157
+date: 2011-04-15 10:30:57.000000000 +02:00
+categories:
+- Geek
+tags: []
+comments: []
+---
+<blockquote>PhoneGap is an open source implementation of open standards. That means developers and companies can use PhoneGap for mobile applications that are free, commercial, open source, or any combination of these. The PhoneGap project will always remain free and open source under an MIT license.</blockquote>
+via <a href="http://www.phonegap.com/about">About « PhoneGap</a>.

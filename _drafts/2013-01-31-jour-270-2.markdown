@@ -1,0 +1,19 @@
+---
+layout: post
+status: publish
+published: true
+title: Jour 270 2
+author: mick
+author_login: mick
+author_email: mickael@flochlay.com
+wordpress_id: 2597
+wordpress_url: http://morningcoffee.deadrooster.org/?p=2597
+date: 2013-01-31 18:53:17.000000000 +01:00
+categories:
+- Fun
+tags:
+- comic
+- je veux travailler pour le canard
+comments: []
+---
+<a href="http://jeveuxtravaillerpourlecanard.blogspot.fr/2013/01/jour-270-2.html">On veut travailler pour le canard enchaîné: Jour 270 2</a>.

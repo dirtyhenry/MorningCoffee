@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: Glastonbury 2011
+author: mick
+author_login: mick
+author_email: mickael@flochlay.com
+wordpress_id: 135
+wordpress_url: http://morningcoffee.mickaelflochlay.com/?p=135
+date: 2011-04-15 08:50:47.000000000 +02:00
+categories:
+- Musique
+tags: []
+comments: []
+---
+<blockquote>The lineup is spread over 28 playing areas. That's a lot of playing areas.</blockquote>
+Plus jeune, je rêvais de Glastonbury. J'ai peur que ce festival soit devenu du vrai n'importe quoi.
+
+via <a href="http://pitchfork.com/news/42204-glastonbury-2011-lineup-revealed/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+PitchforkLatestNews+%28Pitchfork%3A+Latest+News%29">Pitchfork: Glastonbury 2011 Lineup Revealed</a>.
