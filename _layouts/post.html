@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Morning Coffee</title>
+    <title>{{ page.title }} - Morning Coffee</title>
     <meta name="description" content="Morning Coffee">
     <meta name="viewport" content="width=device-width">
     <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -80,7 +80,12 @@
             </p>
         </header>
 
-        {{ content }}
+        <div class="container">
+            <div class="pin">
+                <h1 class="entry-title">{{ page.title }}</h1>
+                {{ content }}
+            </div>
+        </div>
 
         <!-- Footer
         ================================================== -->

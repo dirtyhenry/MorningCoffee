@@ -69,7 +69,7 @@ task :post do
     post.puts "tags: []"
     post.puts "---"
     post.puts ""
-    post.puts "[Title][1]"
+    post.puts "via [Title][1]"
     post.puts ""
     post.puts "[1]: #{url}"
   end

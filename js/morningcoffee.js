@@ -8,11 +8,28 @@ $('p').each(function(index) {
   }
 });
 
-$('iframe').each(function(index) {
-    $(this).removeAttr("width");
-    $(this).removeAttr("height");
-    $(this).parent().addClass("embed-container");
-});
+function adjustIframes() {
+  $('iframe').each(function(){
+    var
+    $this       = $(this),
+    proportion  = $this.data( 'proportion' ),
+    w           = $this.attr('width'),
+    actual_w    = $this.width();
+    
+    if ( ! proportion )
+    {
+        proportion = $this.attr('height') / w;
+        $this.data( 'proportion', proportion );
+    }
+  
+    if ( actual_w != w )
+    {
+        $this.css( 'height', Math.round( actual_w * proportion ) + 'px' );
+    }
+  });
+}
+$(window).on('resize load',adjustIframes);
+
 
 $('.label').hover(
     function() {
