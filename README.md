@@ -5,7 +5,7 @@ Morning Coffee is a set of tools to run a WordPress site dedicated to bookmark w
 
 To create a new post:
 
-    rake post title="" url=""
+    rake post title="" url="" 
 
 Acknowledgements:
 
