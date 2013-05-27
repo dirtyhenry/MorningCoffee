@@ -22,8 +22,23 @@ title: Morning Coffee
                 </footer>
         </article>
     </div>
-    
     {% endfor %}
 </div>
 
-<!-- Pagination here -->
+<div class="pagination">
+  <ul>
+    {% if paginator.previous_page %}
+    {% if paginator.previous_page == 1 %}
+    <li><a href="/" class="previous">Previous</a></li>
+    {% else %}
+    <li><a href="/page{{ paginator.previous_page }}" class="previous">Previous</a></li>
+    {% endif %}
+    {% else %}
+    <li class="disabled"><a href="#" class="previous">Previous</a></li>    
+    {% endif %}
+    <li class="active"><a href="#">{{ paginator.page }}</a></li>
+    {% if paginator.next_page %}
+    <li><a href="/page{{ paginator.next_page }}" class="next">Next</a></li>
+    {% endif %}
+  </ul>
+</div>
