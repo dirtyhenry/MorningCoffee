@@ -1,7 +1,7 @@
 MorningCoffee
 =============
 
-Morning Coffee is a set of tools to run a WordPress site dedicated to bookmark web contents.
+Morning Coffee is a Jekyll-generated website of web bookmarks.
 
 To create a new post:
 
