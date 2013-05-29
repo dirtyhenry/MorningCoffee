@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Rockin' Steady: A Guide to Basketball and Cool
+title: Rockin' Steady - A Guide to Basketball and Cool
 author: mick
 author_login: mick
 author_email: mickael@flochlay.com
