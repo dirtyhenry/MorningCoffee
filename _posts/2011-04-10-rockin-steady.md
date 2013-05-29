@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Un livre sympa
+title: Rockin' Steady: A Guide to Basketball and Cool
 author: mick
 author_login: mick
 author_email: mickael@flochlay.com
@@ -17,6 +17,7 @@ tags:
 - livre
 comments: []
 ---
-Un guide du basketball et du cool ? Voilà un livre qui a l'air bien fun !
 
-<em>Rockin' Steady</em>
+Un guide du basketball et du cool ? Voilà [un livre][1] qui a l'air bien fun !
+
+[1]: http://www.amazon.com/Rockin-Steady-Guide-Basketball-Cool/dp/B0078XQ984

@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: Yeah !
+author: mick
+author_login: mick
+author_email: mickael@flochlay.com
+wordpress_id: 10
+wordpress_url: http://88.191.132.16/mc/?p=10
+date: 2011-04-10 09:31:43.000000000 +02:00
+categories:
+- Sport
+tags:
+- foot
+comments: []
+---
+
+> Les Brestois remportent un succès mérité, dans une rencontre qu'ils ont maîtrisée de bout en bout. 
+> Une "leçon de football" d'après M'Vila et une victoire acquise sur les bases d'un pressing incessant. 
+> Brest se rassure en vue du maintien.
+
+via [Brest - Rennes : 2-0][1]
+
+[1]: http://www.lequipe.fr/Football/20110409_225200_auto_brest-rennes-2-0.html
