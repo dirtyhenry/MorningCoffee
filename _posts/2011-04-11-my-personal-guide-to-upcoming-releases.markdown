@@ -15,14 +15,14 @@ tags: []
 comments: []
 ---
 
-* The Kills: *Blood Pressures* [Domino]
-* The Raveonettes: *Raven in the Grave* [Vice]
-* I'm From Barcelona: *Forever Today* [Mute]
-* Malajube: *La Caverne* [Dare to Care]
-* Fleet Foxes: *Helplessness Blues* [Sub Pop]
-* Art Brut: *Brilliant! Tragic!* [Cooking Vinyl]
-* Arctic Monkeys: *Suck It and See* [Domino]
-* Black Lips: *Arabia Mountain* [Vice]
+* The Kills: *Blood Pressures* (Domino)
+* The Raveonettes: *Raven in the Grave* (Vice)
+* I'm From Barcelona: *Forever Today* (Mute)
+* Malajube: *La Caverne* (Dare to Care)
+* Fleet Foxes: *Helplessness Blues* (Sub Pop)
+* Art Brut: *Brilliant! Tragic!* (Cooking Vinyl)
+* Arctic Monkeys: *Suck It and See* (Domino)
+* Black Lips: *Arabia Mountain* (Vice)
 
 via [Pitchfork: The Pitchfork Guide to Upcoming Releases][1]
 
