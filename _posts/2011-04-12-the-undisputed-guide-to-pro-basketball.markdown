@@ -16,7 +16,10 @@ tags:
 - livre
 comments: []
 ---
-<blockquote>“Baseball has its numbers and football has its hard hits, but basketball, more than those sports, has style. And no one has done more to try to capture that than the collection of bloggers known as Freedarko."</blockquote>
-L'air d'être un chouette livre
+
+> Baseball has its numbers and football has its hard hits, but basketball, more than those sports, 
+> has style. And no one has done more to try to capture that than the collection of bloggers known as Freedarko.
+
+L'air d'être un chouette livre.
 
 via <a href="http://www.freedarko.com/history/reviews">REVIEWS | FD History</a>.
