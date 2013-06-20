@@ -15,7 +15,11 @@ categories:
 tags: []
 comments: []
 ---
-<blockquote>Coldplay fans are 'least likely to have sex on a first date'</blockquote>
+
+> Coldplay fans are 'least likely to have sex on a first date'
+
 Par contre, les fans de Nirvana ne vous laissent même pas le temps de finir votre assiette apparemment...
 
-via <a href="http://www.nme.com/news/coldplay/56066">Coldplay fans are 'least likely to have sex on a first date' | News | NME.COM</a>.
+via [Coldplay fans are 'least likely to have sex on a first date'][1]
+
+[1]: http://www.nme.com/news/coldplay/56066

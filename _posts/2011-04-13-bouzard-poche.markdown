@@ -17,6 +17,9 @@ tags:
 - foot
 comments: []
 ---
+
 Larcenet fais le making-off d'un dessin de Bouzard pour So Foot.
 
-via <a href="http://www.manularcenet.com/blog/articles/5328/bouzard-poche-1">Epais et Tordu, le site officiel de Manu Larcenet » Blog Archive » Bouzard Poche 1</a>.
+via [Bouzard Poche 1][1]
+
+[1]: http://www.manularcenet.com/blog/articles/5328/bouzard-poche-1
